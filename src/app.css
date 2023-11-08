@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-image {
+    background-image: url('/asset/bg-illustration.svg');
+    background-color: #111729;
+    background-size: cover;
+    background-position: center;
+  }
